@@ -1,3 +1,18 @@
+Storm of Istra
+==============
+
+*A fantasy skirmish wargame in an apocalyptic tradecity*
+
+Designer: David Malmström
+
+Invaluable ideas: David Israelsson
+
+Inspiration: Mordheim, Frostgrave, Infinity and 13<sup>th</sup> Age Roleplaying Game.
+
+Play testers:
+
+-   \[Your name here\]
+
 Rules
 =====
 
