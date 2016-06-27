@@ -16,7 +16,7 @@ Play testers:
 Table of Contents
 =================
 
-\[TOC\]
+[TOC]
 
 Rules
 =====
