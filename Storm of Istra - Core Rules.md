@@ -3,13 +3,13 @@ Storm of Istra
 
 *A fantasy skirmish wargame in an apocalyptic tradecity*
 
-Designer: David Malmström
+**Designer**: David Malmström
 
-Invaluable ideas: David Israelsson
+**Invaluable ideas**: David Israelsson
 
-Inspiration: Mordheim, Frostgrave, Infinity and 13th Age Roleplaying Game.
+**Inspiration**: Mordheim, Frostgrave, Infinity and 13th Age Roleplaying Game.
 
-Play testers:
+**Play testers**:
 
 -   \[Your name here\]
 
@@ -24,38 +24,22 @@ Stat line
 
 Power, Finesse and Will are Core Stats.
 
-### Power
+<span id="power" class="anchor"></span>**Power**: Used for attacking and defending in melee, defending against ranged attacks.
 
-Used for striking in melee. Str, Con
+<span id="finesse" class="anchor"></span>**Finesse**: Used for ranged attacks.
 
-### Finesse
+<span id="will" class="anchor"></span>**Will**: Used for casting spells and morale.
 
-Used for shooting. Dex, Wix
+<span id="health" class="anchor"></span>**Health**: A models health shows how much damage it can take before it collapses, is killed or incapacitated. 10-20
 
-### Will
+<span id="armour" class="anchor"></span>**Armour**: Armour indicates how much damage the model reduces incoming damage with. 10+
 
-Used for casting spells and morale. Int, Cha
-
-### Health
-
-A models health shows how much damage it can take before it collapses, is killed or incapacitated.
-
-10-20
-
-### Armour
-
-Armour indicates how much damage the model reduces incoming damage with.
-
-10+
-
-### Movement
-
-Movement is a modifier to the movement roll.
+<span id="movement" class="anchor"></span>**Movement**: Movement is a modifier to the movement roll.
 
 Skills
 ------
 
-Ranges from easy 6+, normal 11+, hard 16+
+Difficulties when performing a skill check are easy 6+, normal 11+, hard 16+. To roll a skill check simply roll 1D20 and get equal or higher than the difficulty. If no difficulty is written use the normal difficulty of 11+.
 
 ### Power
 
@@ -69,14 +53,27 @@ Spot hidden
 
 Leadership
 
+Setup the battle
+----------------
+
+To setup a game of Storm of Istra, you need at least two players for Player versus Player (PVP) and at least one player and one Game Master for Player versus Environment (PVE).
+
+Each participant rolls initiative to see who goes first. A simple opposed roll using 1D20 is used, the high roller begins, ties are rerolled. If there are more than two players they can in roll off to see who goes next or just use the standard board game rule, the next player to the left.
+
+### Building the battlefield
+
+TODO
+
+### Deploying your mercenary company
+
+The player that won the Initiative gets to deploy one of his models, then the next player deploys one model, and so on until all models have been placed on the board.
+
 The Turn
 --------
 
-Games are divided into turns, each player will have a chance to move all of their figures on their turn.
+Games are divided into turns, each player will have a chance to move all of their figures on a turn.
 
 ### Initiative
-
-Initiative is rolled once at the start of the game. A simple opposed roll is used, the high roller begins, ties are rerolled.
 
 The player that won the roll get to activate one of his models and then nominate the next model to be activated. They can choose to nominate their own, another players or a neutral monsters model. The owner of the nominated model takes that models turn and the nominates the next model, and so forth until all models have been nominated once. The last nominated model’s owner gets to nominate the first model for the next turn.
 
