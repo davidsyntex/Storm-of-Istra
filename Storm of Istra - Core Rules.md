@@ -7,11 +7,16 @@ Designer: David Malmström
 
 Invaluable ideas: David Israelsson
 
-Inspiration: Mordheim, Frostgrave, Infinity and 13<sup>th</sup> Age Roleplaying Game.
+Inspiration: Mordheim, Frostgrave, Infinity and 13th Age Roleplaying Game.
 
 Play testers:
 
 -   \[Your name here\]
+
+Table of Contents
+=================
+
+\[TOC\]
 
 Rules
 =====
