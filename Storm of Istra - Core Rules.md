@@ -16,7 +16,8 @@ Play testers:
 Table of Contents
 =================
 
-[TOC]
+* auto-gen TOC:
+{:toc}
 
 Rules
 =====
