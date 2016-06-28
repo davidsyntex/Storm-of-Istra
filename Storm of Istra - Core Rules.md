@@ -5,7 +5,7 @@ Storm of Istra
 
 **Designer**: David Malmström
 
-**Invaluable ideas**: David Israelsson
+**Invaluable ideas**: David Israelsson, Zac Coste
 
 **Inspiration**: Mordheim, Frostgrave, Infinity and 13th Age Roleplaying Game.
 
