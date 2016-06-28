@@ -113,7 +113,7 @@ If a model wants to move through rough terrain such as rubble or scale a buildin
 
 #### Climbing
 
-A model can climb 3” during any part of its movement, climbing still cost movement. Climbing in obstructions or rough terrain still applies.
+A model can climb 3” during any part of its movement, climbing still cost movement. Climbing in obstructions or rough terrain still applies. Enemies always have the *First strike* special rule against models that have climbed this turn.
 
 #### Forced engaged in combat
 
@@ -203,10 +203,6 @@ Range
 Shooting from higher up adds to the range of Ranged weapons. Measure the height difference between the attacker and the defender and add it to the range of the attackers Ranged weapon.
 
 For example, a bowwoman standing 3" above her target adds 3" to her bows maximum range.
-
-### Climb
-
-If a model has Climbed this turn, and attacks your model, you gain the *First strike* special rule.
 
 Damage
 ------
@@ -421,19 +417,21 @@ It's important that you name your company hall.
 Weapon descriptions
 -------------------
 
-### Unarmed
+### Melee
+
+#### Unarmed
 
 Unarmed strikes have a -2 damage modifier and -2 to the attack roll.
 
-### Dagger
+#### Dagger
 
 Daggers apply a -2 to attack rolls but -2 to an opponent's armour when determining damage.
 
-### One-handed weapon
+#### One-handed weapon
 
 These weapons have no modifiers.
 
-### Two-handed weapon
+#### Two-handed weapon
 
 Two-handed weapons have +2 damage modifier and the *First strike* special rule against Spears.
 
@@ -441,17 +439,21 @@ Two-handed weapons have +2 damage modifier and the *First strike* special rule a
 
 Spears can be either a one-handed or a two-handed weapon. If you use a shield with a spear it counts as a one-handed weapon. If not, it counts as a two-handed weapon. Spears have the *First strike* special rule.
 
-### Bow
+### Shooting
 
-Bows may be loaded and fired as a single action. The range of a bow is greater than the board size, but for game purposes it's max range is 24".
+All ranged weapons have Advantage against targets within 6”.
 
-### Crossbow
+#### Bow
 
-Crossbows takes either a movement or an action to load. Crossbows have a +2 damage modifier and a maximum range of 24".
+Bows may be loaded and fired as a single action.
 
-### Black powder
+#### Crossbow
 
-Black powder weapons give you a -2 to ranged attacks but gives you +4 to damage.
+Crossbows takes either a Move action or a Standard action to load. Crossbows have a +2 damage modifier.
+
+#### Black powder
+
+Black powder weapons give you a -2 to ranged attacks but gives you +6 to damage. Black powder weapons have Disadvantage against all targets 12” or further away. Black powder weapons take 2 turns to reload.
 
 Armour descriptions
 -------------------
