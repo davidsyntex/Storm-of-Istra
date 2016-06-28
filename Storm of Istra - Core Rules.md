@@ -194,9 +194,11 @@ If a models Health is reduced to zero, they are considered to be out of the game
 
 ### Core Stat
 
-If all of a models Core Stats are reduced to zero, they are considered to be out of the game. Take the model away from the board and set it aside in a special area for models taken out of battle.
+If all of a models Core Stats are reduced to zero, they are considered to be out of the game. Take the model away from the board and set it aside in a special area for models taken out of the game.
 
-When a model takes damage to Core Stats it's the stat that was rolled that first takes damage, if that Core Stat is already zero reduce the next Core Stat inline by 1.
+When a model takes damage to Core Stats it's the stat that was rolled that first takes damage, if that Core Stat is already zero reduce the next Core Stat in line by 1.
+
+> A model has \[1P, 2F, 1W\], it takes 2F damage, then it takes another 1F damage but now the models Finesse is already zero, so the damage goes to the next Core Stat in line, Will, it takes 1 damage to Will. The model now has Core Stats as follows \[1P, 0F, 0W\]. If it takes any damage to either Finesse or Will it will carry over to Power, reducing it down to zero and taking the model out of game.
 
 Morale
 ------
