@@ -435,11 +435,11 @@ These weapons have no modifiers.
 
 ### Two-handed weapon
 
-Two-handed weapons have +2 damage modifier and the special rule *Spear break*.
+Two-handed weapons have +2 damage modifier and the *First strike* special rule against Spears.
 
 ### Spear
 
-Spears can be either a one-handed or a two-handed weapon. If you use a shield with a spear it counts as a one-handed weapon. If not, it counts as a two-handed weapon albeit it doesn’t get the *Spear break* special rule.
+Spears can be either a one-handed or a two-handed weapon. If you use a shield with a spear it counts as a one-handed weapon. If not, it counts as a two-handed weapon. Spears have the *First strike* special rule.
 
 ### Bow
 
@@ -511,10 +511,6 @@ Reaction: When fired upon you may shield a friendly model within 2" rolling defe
 Reaction: If you have not used your Standard action, you may spend your Standard action to make a Melee attack against your attacker before she attacks you.
 
 If both models have First strike they cancel each other out.
-
-### Spear break
-
-If you get attacked by a model using a Spear, you may use the *First strike* special rule
 
 Campaigns
 =========
