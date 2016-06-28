@@ -98,17 +98,22 @@ Valid Movement actions: Move, Pick up item and Switch weapon.
 
 Valid Standard actions: Melee, Shoot, Cast a spell, Sprint.
 
-### Movement
+Sometimes a model may be eligible for a Reaction, a special type of Action, spending her actions on another models turn.
+
+Movement actions
+----------------
 
 If a model wants to move take 4 and adds it Finesse stat, it may move that many inches.
 
-#### Sprint
-
-If a model wants to sprint it must have already moved this turn, it may then move half of its movement.
+### Move
 
 #### Obstructions or rough terrain
 
 If a model wants to move through rough terrain such as rubble or scale a building it may do so at 1" at the cost of 2".
+
+#### Climbing
+
+A model can climb 3” during any part of its movement, climbing still cost movement. Climbing in obstructions or rough terrain still applies.
 
 #### Forced engaged in combat
 
@@ -116,7 +121,7 @@ If a model moves within 1" of an enemy, they are considered Engaged in combat an
 
 #### Disengage from combat
 
-To run away from a combat, the model must succeed at a Disengage-roll. Roll 1T20 and if the result is 11+ they may Disengage from the combat and move. The model gains -1 to the Disengage roll for each enemy it's engaged with beyond the first.
+To run away from a combat, the model must succeed at a Disengage-roll. Roll 1T20 and if the result is 11+ the model may Disengage from the combat and move. The model gains -1 to the Disengage roll for each enemy it's engaged with beyond the first.
 
 #### Moved by a spell
 
@@ -130,8 +135,22 @@ If a model moves of the board it may not return.
 
 A model may jump down from 3" without sustaining any injuries. If the model falls more than 3" it suffers damage equal to the number of inches fall multiplied by 1.5 (round down), armour does not apply to fall damage.
 
-Melee Combat
-------------
+### Pick up item
+
+You may spend your Movement action to pick up an item.
+
+### Switch weapon
+
+You may spend your Movement action to switch to another weapon that you have equipped.
+
+Standard actions
+----------------
+
+### Sprint
+
+If a model wants to sprint it must have already moved this turn, it may then move half of its movement.
+
+### <span id="obstructions-or-rough-terrain" class="anchor"><span id="melee-combat" class="anchor"></span></span>Melee
 
 A model may attack another model that it's in base-contact with.
 
@@ -143,8 +162,7 @@ If damage was caused reduce the loser's health stat by that much and lower one C
 
 If both sides totals are the same then both are considered winners and may inflict damage.
 
-Ranged combat
--------------
+### Shoot
 
 A model may attack another model with its ranged weapon if it's both in range and in line-of-sight.
 
@@ -154,8 +172,7 @@ If the attacker's total is equal or higher than the defender's total, the attack
 
 If damage was caused reduce the loser's health stat by that much and lower one Core Stat by 1.
 
-Spellcasting
-------------
+### Cast a spell
 
 A model may cast a spell if they fulfil the spells requirements such as range, legal target, etc.
 
@@ -169,7 +186,7 @@ If damage was caused reduce the loser's health stat by that much and lower one C
 
 If the caster loses he may suffer damage according to the spell failure table
 
-### Spell failure
+#### Spell failure
 
 | Amount By Which Casting Roll Failed | Damage Taken by Spellcaster |
 |-------------------------------------|-----------------------------|
@@ -181,9 +198,15 @@ If the caster loses he may suffer damage according to the spell failure table
 Range
 -----
 
-Range from higher up adds to the range Ranged weapons. Measure the height difference between the attacker and the defender and at it to the range of the attackers Ranged weapon.
+### High above
 
-For example, a bowman standing 3" above her target adds 3" to her bows maximum range.
+Shooting from higher up adds to the range of Ranged weapons. Measure the height difference between the attacker and the defender and add it to the range of the attackers Ranged weapon.
+
+For example, a bowwoman standing 3" above her target adds 3" to her bows maximum range.
+
+### Climb
+
+If a model has Climbed this turn, and attacks your model, you gain the *First strike* special rule.
 
 Damage
 ------
@@ -412,7 +435,11 @@ These weapons have no modifiers.
 
 ### Two-handed weapon
 
-Two-handed weapons have +2 damage modifier.
+Two-handed weapons have +2 damage modifier and the special rule *Spear break*.
+
+### Spear
+
+Spears can be either a one-handed or a two-handed weapon. If you use a shield with a spear it counts as a one-handed weapon. If not, it counts as a two-handed weapon albeit it doesn’t get the *Spear break* special rule.
 
 ### Bow
 
@@ -451,6 +478,7 @@ Equipment list
 | Dagger     | 2         | 1                  |
 | One-handed | 10        | 10                 |
 | Two-handed | 12        | 15                 |
+| Spear      | 5         | ?                  |
 | Bow        | 10        | 10                 |
 | Crossbow   | 10        | 25                 |
 | Longbow    | 15        | 15                 |
@@ -477,6 +505,16 @@ Reaction: When fired upon you may spend your action to gain advantage to defence
 ### Shield friend
 
 Reaction: When fired upon you may shield a friendly model within 2" rolling defence instead of it by spending your action.
+
+### First strike
+
+Reaction: If you have not used your Standard action, you may spend your Standard action to make a Melee attack against your attacker before she attacks you.
+
+If both models have First strike they cancel each other out.
+
+### Spear break
+
+If you get attacked by a model using a Spear, you may use the *First strike* special rule
 
 Campaigns
 =========
