@@ -45,7 +45,7 @@ Power, Finesse and Will are Core Stats.
 
 **Health**: A models health shows how much damage it can take before it collapses, is killed or incapacitated. 10-20
 
-**Armour**: Armour indicates how much damage the model reduces incoming damage with. 10+
+**Armour**: Armour indicates how much damage the model reduces incoming damage with.
 
 Skills
 ------
@@ -86,7 +86,7 @@ Games are divided into turns, each player will have a chance to move all of thei
 
 ### Initiative
 
-The player that won the roll get to activate one of his models and then nominate the next model to be activated. They can choose to nominate their own, another players or a neutral monsters model. The owner of the nominated model takes that models turn and the nominates the next model, and so forth until all models have been nominated once. The last nominated model’s owner gets to nominate the first model for the next turn.
+The player that won the roll get to activate one of his models and then nominate the next model to be activated. They can choose to nominate their own, another players or a neutral monsters model. The owner of the nominated model takes that models turn and then nominates the next model, and so forth until all models have been nominated once. The last nominated model’s owner gets to nominate the first model for the next turn.
 
 ### Activation
 
@@ -302,13 +302,13 @@ The table shows the starting value and max value of each stat for that race.
 
 | Race     | P   | F   | W   | H     | A   |
 |----------|-----|-----|-----|-------|-----|
-| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 11  |
-| Elf      | 1/4 | 1/7 | 1/5 | 10/20 | 11  |
-| Dwarf    | 1/7 | 1/5 | 1/5 | 10/20 | 11  |
-| Halfling | 1/5 | 1/6 | 1/5 | 10/20 | 11  |
-| Undead   | 1/5 | 1/3 | 1/4 | 10/20 | 11  |
-| Beast    | 1/8 | 1/5 | 1/4 | 10/20 | 11  |
-| Demon    | 1/6 | 1/6 | 1/6 | 10/20 | 11  |
+| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 0   |
+| Elf      | 1/4 | 1/7 | 1/5 | 10/20 | 0   |
+| Dwarf    | 1/7 | 1/5 | 1/5 | 10/20 | 0   |
+| Halfling | 1/5 | 1/6 | 1/5 | 10/20 | 0   |
+| Undead   | 1/5 | 1/3 | 1/4 | 10/20 | 0   |
+| Beast    | 1/8 | 1/5 | 1/4 | 10/20 | 0   |
+| Demon    | 1/6 | 1/6 | 1/6 | 10/20 | 0   |
 
 Races
 -----
@@ -431,11 +431,11 @@ Armour descriptions
 
 ### Light
 
-Light armour gives the model +1 Armour.
+Light armour gives the model +5 Armour.
 
 ### Heavy
 
-Heavy armour gives the model +4 Armour but -2 Movement.
+Heavy armour gives the model +10 Armour but -2 Movement.
 
 ### Shield
 
@@ -528,7 +528,7 @@ Talents
 
 **Smite Douchebag**: Once per battle, before you roll attack you may declare that you use Smite Douchebag. You may deal 1D3 extra damage even if you lose the combat roll. You may deal 1D6 extra damage if you win the combat.
 
-**Bastion**: You gain +2 Armour and can once per battle invoke the special rules Shield friend even if you don't have a shield.
+**Bastion**: You gain +1 Armour and can once per battle invoke the special rules Shield friend even if you don't have a shield.
 
 **Paladin's challenge**: If you damage a model you may choose to challenge that model. You both take a -4 attack penalty to all other models.
 
