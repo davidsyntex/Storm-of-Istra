@@ -202,7 +202,7 @@ Range
 
 Shooting from higher up adds to the range of Ranged weapons. Measure the height difference between the attacker and the defender and add it to the range of the attackers Ranged weapon.
 
-For example, a bowwoman standing 3" above her target adds 3" to her bows maximum range.
+For example, an archer is standing 3" above her target adds 3" to her bows maximum range.
 
 Damage
 ------
@@ -441,7 +441,7 @@ Spears can be either a one-handed or a two-handed weapon. If you use a shield wi
 
 ### Shooting
 
-All ranged weapons have Advantage against targets within 6”.
+All ranged weapons have Advantage against targets within 6” and the *Charged shot* special rule.
 
 #### Bow
 
@@ -453,7 +453,7 @@ Crossbows takes either a Move action or a Standard action to load. Crossbows hav
 
 #### Black powder
 
-Black powder weapons give you a -2 to ranged attacks but gives you +6 to damage. Black powder weapons have Disadvantage against all targets 12” or further away. Black powder weapons take 2 turns to reload.
+Black powder weapons give the defender Disadvantage to the defence roll and deal +6 damage. Black powder weapons have Disadvantage against all targets 12” or further away. Black powder weapons take 2 turns to reload.
 
 Armour descriptions
 -------------------
@@ -475,17 +475,16 @@ Equipment list
 
 ### Weapons
 
-| Name       | Cost (gp) | Mordheim cost (gc) |
-|------------|-----------|--------------------|
-| Dagger     | 2         | 1                  |
-| One-handed | 10        | 10                 |
-| Two-handed | 12        | 15                 |
-| Spear      | 5         | ?                  |
-| Bow        | 10        | 10                 |
-| Crossbow   | 10        | 25                 |
-| Longbow    | 15        | 15                 |
-| Rifle      | 50        | 30                 |
-| Pistol     | 60        | 35                 |
+| Name        | Cost (gp) | Mordheim cost (gc) |
+|-------------|-----------|--------------------|
+| Dagger      | 2         | 1                  |
+| One-handed  | 10        | 10                 |
+| Two-handed  | 12        | 15                 |
+| Spear       | 5         | ?                  |
+| Bow/Longbow | 10        | 10                 |
+| Crossbow    | 10        | 25                 |
+| Rifle       | 50        | 30                 |
+| Pistol      | 60        | 35                 |
 
 ### Armour
 
@@ -499,6 +498,10 @@ Equipment list
 
 Special rules
 -------------
+
+### Charged shot
+
+Reaction: If you have a loaded ranged weapon and a model moves to Engage you in combat, you may as a reaction spend your Move action and Standard action to Shoot the attacker before he makes his attack. Your Shooting attack may be taken at any range you wish. If you do Shoot the attacker you cannot Switch weapon and you gain Disadvantage on your defence roll.
 
 ### Arrow block
 
