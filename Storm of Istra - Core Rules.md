@@ -37,17 +37,15 @@ Stat line
 
 Power, Finesse and Will are Core Stats.
 
-<span id="power" class="anchor"></span>**Power**: Used for attacking and defending in melee, defending against ranged attacks.
+**Power**: Used for attacking and defending in melee, defending against ranged attacks.
 
-<span id="finesse" class="anchor"></span>**Finesse**: Used for ranged attacks.
+**Finesse**: Used for ranged attacks and modifies movement.
 
-<span id="will" class="anchor"></span>**Will**: Used for casting spells and morale.
+**Will**: Used for casting spells and morale.
 
-<span id="health" class="anchor"></span>**Health**: A models health shows how much damage it can take before it collapses, is killed or incapacitated. 10-20
+**Health**: A models health shows how much damage it can take before it collapses, is killed or incapacitated. 10-20
 
-<span id="armour" class="anchor"></span>**Armour**: Armour indicates how much damage the model reduces incoming damage with. 10+
-
-<span id="movement" class="anchor"></span>**Movement**: Movement is a modifier to the movement roll.
+**Armour**: Armour indicates how much damage the model reduces incoming damage with. 10+
 
 Skills
 ------
@@ -94,17 +92,19 @@ The player that won the roll get to activate one of his models and then nominate
 
 When a model is activated it has to take its round, it can't hold its action or ready them for later.
 
-A model has one movement and one action, they can take them in any order.
+A model has one Movement action and one Standard action, they can take them in any order.
 
-Valid actions for a model is: Melee, Shoot, Cast a spell, Sprint, Pick up item.
+Valid Movement actions: Move, Pick up item and Switch weapon.
+
+Valid Standard actions: Melee, Shoot, Cast a spell, Sprint.
 
 ### Movement
 
-If a model wants to move it rolls 3D6 and adds it Movement stat, it may move that many inches.
+If a model wants to move take 4 and adds it Finesse stat, it may move that many inches.
 
 #### Sprint
 
-If a model wants to sprint it must have already moved this turn, it may then move half of the rolled movement that turn.
+If a model wants to sprint it must have already moved this turn, it may then move half of its movement.
 
 #### Obstructions or rough terrain
 
@@ -298,15 +298,15 @@ Choose a name, race and class for the newly recruited hero.
 
 The table shows the starting value and max value of each stat for that race.
 
-| Race     | P   | F   | W   | H     | A   | M   |
-|----------|-----|-----|-----|-------|-----|-----|
-| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Elf      | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Dwarf    | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Halfling | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Undead   | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Beast    | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
-| Demon    | 1/5 | 1/5 | 1/5 | 10/20 | 11  | 0   |
+| Race     | P   | F   | W   | H     | A   |
+|----------|-----|-----|-----|-------|-----|
+| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 11  |
+| Elf      | 1/4 | 1/7 | 1/5 | 10/20 | 11  |
+| Dwarf    | 1/7 | 1/5 | 1/5 | 10/20 | 11  |
+| Halfling | 1/5 | 1/6 | 1/5 | 10/20 | 11  |
+| Undead   | 1/5 | 1/3 | 1/4 | 10/20 | 11  |
+| Beast    | 1/8 | 1/5 | 1/4 | 10/20 | 11  |
+| Demon    | 1/6 | 1/6 | 1/6 | 10/20 | 11  |
 
 Races
 -----
@@ -484,7 +484,7 @@ Advancing your heroes
 
 After each battle your surviving heroes gains 1 XP, it takes 4 XP to reach the next level.
 
-Your heroes gain +1 to all stats except movement for each level they have.
+Your heroes gain +1 to one Core Stat each time they gain a level.
 
 Your heroes gain +1 talents for each level they have.
 
