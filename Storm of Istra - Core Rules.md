@@ -1,3 +1,4 @@
+
 Storm of Istra
 ==============
 
@@ -13,24 +14,46 @@ Storm of Istra
 
 -   \[Your name here\]
 
-License
-=======
 
-The MIT License (MIT)
 
-Copyright (c) 2016 David Malmström
+# License
+## [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## You are free to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+- for any purpose, even commercially.
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+
+## Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, andindicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+  **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+## Notices:
+- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
+
 
 Table of Contents
 =================
 
+
+
+
+
+
 Rules
 =====
+
 
 Stat line
 ---------
@@ -46,6 +69,7 @@ Power, Finesse and Will are Core Stats.
 **Health**: A models health shows how much damage it can take before it collapses, is killed or incapacitated. 10-20
 
 **Armour**: Armour indicates how much damage the model reduces incoming damage with.
+
 
 Skills
 ------
@@ -64,6 +88,7 @@ Spot hidden
 
 Leadership
 
+
 Setup the battle
 ----------------
 
@@ -78,6 +103,7 @@ TODO
 ### Deploying your mercenary company
 
 The player that won the Initiative gets to deploy one of his models, then the next player deploys one model, and so on until all models have been placed on the board.
+
 
 The Turn
 --------
@@ -99,6 +125,7 @@ Valid Movement actions: Move, Pick up item and Switch weapon.
 Valid Standard actions: Melee, Shoot, Cast a spell, Sprint.
 
 Sometimes a model may be eligible for a Reaction, a special type of Action, spending her actions on another models turn.
+
 
 Movement actions
 ----------------
@@ -142,6 +169,7 @@ You may spend your Movement action to pick up an item.
 ### Switch weapon
 
 You may spend your Movement action to switch to another weapon that you have equipped.
+
 
 Standard actions
 ----------------
@@ -189,11 +217,12 @@ If the caster loses he may suffer damage according to the spell failure table
 #### Spell failure
 
 | Amount By Which Casting Roll Failed | Damage Taken by Spellcaster |
-|-------------------------------------|-----------------------------|
+| ----------------------------------- | --------------------------- |
 | 1–4                                 | None                        |
 | 5–9                                 | 1 Damage                    |
 | 10–19                               | 2 Damage                    |
 | 20+                                 | 5 Damage                    |
+
 
 Range
 -----
@@ -203,6 +232,7 @@ Range
 Shooting from higher up adds to the range of Ranged weapons. Measure the height difference between the attacker and the defender and add it to the range of the attackers Ranged weapon.
 
 For example, an archer is standing 3" above her target adds 3" to her bows maximum range.
+
 
 Damage
 ------
@@ -219,6 +249,7 @@ When a model takes damage to Core Stats it's the stat that was rolled that first
 
 > A model has \[1P, 2F, 1W\], it takes 2F damage, then it takes another 1F damage but now the models Finesse is already zero, so the damage goes to the next Core Stat in line, Will, it takes 1 damage to Will. The model now has Core Stats as follows \[1P, 0F, 0W\]. If it takes any damage to either Finesse or Will it will carry over to Power, reducing it down to zero and taking the model out of game.
 
+
 Morale
 ------
 
@@ -230,15 +261,18 @@ If the roll is equal or higher than the target number she may remain in the batt
 
 If the roll is lower than the target number she will flee using both her movement and Sprint action to get to the nearest table edge. She takes the safest way away from enemies.
 
+
 Critical Hit
 ------------
 
 When a model making an attack rolls a natural twenty (20), then they have scored a critical hit. It automatically wins that combat and may deal double damage (after armour reduction).
 
+
 Critical Fumble
 ---------------
 
 When a model making an attack rolls a natural one (1), then they have scored a critical fumble. It automatically loses that combat, reduces one Core Stat by 1 and its opponent may deal damage (Effective Core Stat loss is two, one for the fumble and one for the damage). If the model was shooting into a melee combat, reroll the attack against one of the models allies in that combat.
+
 
 Advantage & Disadvantage
 ------------------------
@@ -273,12 +307,14 @@ If a model wants to shoot into a melee combat it gains disadvantage. This also a
 
 If a model shoots at an enemy that has cover it gains disadvantage.
 
+
 End of the game
 ---------------
 
 The game ends when the scenarios win or lose-condition is met.
 
 A spellcaster may choose a number of spells equal to his level.
+
 
 Spellcasting
 ------------
@@ -303,8 +339,10 @@ Target: 1 model
 
 Attack: Brilliance vs Finesse
 
+
 Mercenary companies
 ===================
+
 
 Heroes
 ------
@@ -319,15 +357,16 @@ Choose a name, race and class for the newly recruited hero.
 
 The table shows the starting value and max value of each stat for that race.
 
-| Race     | P   | F   | W   | H     | A   |
-|----------|-----|-----|-----|-------|-----|
-| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 0   |
-| Elf      | 1/4 | 1/7 | 1/5 | 10/20 | 0   |
-| Dwarf    | 1/7 | 1/5 | 1/5 | 10/20 | 0   |
-| Halfling | 1/5 | 1/6 | 1/5 | 10/20 | 0   |
-| Undead   | 1/5 | 1/3 | 1/4 | 10/20 | 0   |
-| Beast    | 1/8 | 1/5 | 1/4 | 10/20 | 0   |
-| Demon    | 1/6 | 1/6 | 1/6 | 10/20 | 0   |
+| Race     | P    | F    | W    | H     | A    |
+| -------- | ---- | ---- | ---- | ----- | ---- |
+| Human    | 1/5  | 1/5  | 1/5  | 10/20 | 0    |
+| Elf      | 1/4  | 1/7  | 1/5  | 10/20 | 0    |
+| Dwarf    | 1/7  | 1/5  | 1/5  | 10/20 | 0    |
+| Halfling | 1/5  | 1/6  | 1/5  | 10/20 | 0    |
+| Undead   | 1/5  | 1/3  | 1/4  | 10/20 | 0    |
+| Beast    | 1/8  | 1/5  | 1/4  | 10/20 | 0    |
+| Demon    | 1/6  | 1/6  | 1/6  | 10/20 | 0    |
+
 
 Races
 -----
@@ -382,6 +421,7 @@ Dwarf Treasure Hunters
 
 #### Cult of the Possessed
 
+
 Classes
 -------
 
@@ -403,6 +443,7 @@ With cloak and poison dagger, or a well-placed arrow the expert exceeds in killi
 
 Unlocks Rogue and Ranger talents.
 
+
 Assembling your company of heroes
 ---------------------------------
 
@@ -413,6 +454,7 @@ Give the company a name and motto.
 Your heroes buy, steal or repurpose a place in the city of Istra into a base of operations. A place where your heroes live, train and drink.
 
 It's important that you name your company hall.
+
 
 Weapon descriptions
 -------------------
@@ -455,6 +497,7 @@ Crossbows takes either a Move action or a Standard action to load. Crossbows hav
 
 Black powder weapons give the defender Disadvantage to the defence roll and deal +6 damage. Black powder weapons have Disadvantage against all targets 12” or further away. Black powder weapons take 2 turns to reload.
 
+
 Armour descriptions
 -------------------
 
@@ -470,13 +513,14 @@ Heavy armour gives the model +10 Armour but -2 Movement.
 
 Shields give the model +1 to Armour, Arrow block and Shield friend.
 
+
 Equipment list
 --------------
 
 ### Weapons
 
 | Name        | Cost (gp) | Mordheim cost (gc) |
-|-------------|-----------|--------------------|
+| ----------- | --------- | ------------------ |
 | Dagger      | 2         | 1                  |
 | One-handed  | 10        | 10                 |
 | Two-handed  | 12        | 15                 |
@@ -489,12 +533,13 @@ Equipment list
 ### Armour
 
 | Name    | Cost (gp) | Mordheim cost (gc) |
-|---------|-----------|--------------------|
+| ------- | --------- | ------------------ |
 | Light   | 15        | 20                 |
 | Heavy   | 45        | 50                 |
 | Shield  | 5         | 5                  |
 | Buckler | 5         | 5                  |
 | Helmet  | -         | 5                  |
+
 
 Special rules
 -------------
@@ -517,8 +562,10 @@ Reaction: If you have not used your Standard action, you may spend your Standard
 
 If both models have First strike they cancel each other out.
 
+
 Campaigns
 =========
+
 
 Advancing your heroes
 ---------------------
@@ -528,6 +575,7 @@ After each battle your surviving heroes gains 1 XP, it takes 4 XP to reach the n
 Your heroes gain +1 to one Core Stat each time they gain a level.
 
 Your heroes gain +1 talents for each level they have.
+
 
 Advancing your company hall
 ---------------------------
@@ -541,6 +589,7 @@ Remove terrain when another mercenary company invades your base.
 ### Walls
 
 Gives you wall from where to defend your base.
+
 
 Talents
 -------
