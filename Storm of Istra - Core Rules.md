@@ -18,23 +18,43 @@ Storm of Istra
 **Mission statement**: To combine the feel of fantasy roleplaying games with skirmish wargaming. To be compatible with Games Workshop's Mordheim warbands and models to ensure an easy adoption of the game. To deliver a game where I for once get to shoot into a melee combat. To learn how to design a wargame.
 
 
-License
-=======
 
-The MIT License (MIT)
 
-Copyright (c) 2016 David Malmström
+# License
+## [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/)
 
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+This is a human-readable summary of (and not a substitute for) the [license](https://creativecommons.org/licenses/by-sa/4.0/legalcode).
 
-The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+## You are free to:
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+- **Share** — copy and redistribute the material in any medium or format
+- **Adapt** — remix, transform, and build upon the material
+- for any purpose, even commercially.
+- The licensor cannot revoke these freedoms as long as you follow the license terms.
+
+
+## Under the following terms:
+
+- **Attribution** — You must give appropriate credit, provide a link to the license, andindicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+  **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+
+- **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
+## Notices:
+- You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable exception or limitation.
+- No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as publicity, privacy, or moral rights may limit how you use the material.
+
 
 
 Table of Contents
 =================
 
+<<<<<<< HEAD
+=======
+[TOC]
+
+>>>>>>> origin/master
 
 Rules
 =====
@@ -347,6 +367,7 @@ Attack: Will vs Power
 Effect: Damage
 
 
+
 Mercenary companies
 ===================
 
@@ -370,6 +391,21 @@ A newly recruited hero starts out at level 1. Choose a name, race and class for 
 | Beast    |  8   |  5   |  4   |  20  |  0   |
 | Demon    |  6   |  6   |  6   |  20  |  0   |
 
+<<<<<<< HEAD
+=======
+The table shows the starting value and max value of each stat for that race.
+
+| Race     | P    | F    | W    | H     | A    |
+| -------- | ---- | ---- | ---- | ----- | ---- |
+| Human    | 1/5  | 1/5  | 1/5  | 10/20 | 0    |
+| Elf      | 1/4  | 1/7  | 1/5  | 10/20 | 0    |
+| Dwarf    | 1/7  | 1/5  | 1/5  | 10/20 | 0    |
+| Halfling | 1/5  | 1/6  | 1/5  | 10/20 | 0    |
+| Undead   | 1/5  | 1/3  | 1/4  | 10/20 | 0    |
+| Beast    | 1/8  | 1/5  | 1/4  | 10/20 | 0    |
+| Demon    | 1/6  | 1/6  | 1/6  | 10/20 | 0    |
+
+>>>>>>> origin/master
 
 Races
 -----
@@ -440,6 +476,7 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 ### Demons
 
 **Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders, 
+
 
 
 Classes
@@ -582,10 +619,13 @@ Reaction: If you have not used your Standard action, you may spend your Standard
 
 If both models have First strike they cancel each other out.
 
+<<<<<<< HEAD
 ### Chained
 
 Each time you roll a natural even roll for this attack you can attack another target with the same attack.
 
+=======
+>>>>>>> origin/master
 
 Campaigns
 =========
