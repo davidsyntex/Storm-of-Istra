@@ -1,3 +1,4 @@
+
 Storm of Istra
 ==============
 
@@ -11,7 +12,11 @@ Storm of Istra
 
 **Play testers**:
 
--   \[Your name here\]
+- \[Your name here\]
+
+
+**Mission statement**: To combine the feel of fantasy roleplaying games with skirmish wargaming. To be compatible with Games Workshop's Mordheim warbands and models to ensure an easy adoption of the game. To deliver a game where I for once get to shoot into a melee combat. To learn how to design a wargame.
+
 
 License
 =======
@@ -26,11 +31,14 @@ The above copyright notice and this permission notice shall be included in all c
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
+
 Table of Contents
 =================
 
+
 Rules
 =====
+
 
 Stat line
 ---------
@@ -47,14 +55,13 @@ Power, Finesse and Will are Core Stats.
 
 **Armour**: Armour indicates how much damage the model reduces incoming damage with.
 
+
 Skills
 ------
 
 Difficulties when performing a skill check are easy 6+, normal 11+, hard 16+. To roll a skill check simply roll 1D20 and get equal or higher than the difficulty. If no difficulty is written use the normal difficulty of 11+.
 
 ### Power
-
-Climb: Easy: 1", Normal: 2", Hard: 3"
 
 ### Finesse
 
@@ -63,6 +70,7 @@ Spot hidden
 ### Will
 
 Leadership
+
 
 Setup the battle
 ----------------
@@ -78,6 +86,7 @@ TODO
 ### Deploying your mercenary company
 
 The player that won the Initiative gets to deploy one of his models, then the next player deploys one model, and so on until all models have been placed on the board.
+
 
 The Turn
 --------
@@ -99,6 +108,7 @@ Valid Movement actions: Move, Pick up item and Switch weapon.
 Valid Standard actions: Melee, Shoot, Cast a spell, Sprint.
 
 Sometimes a model may be eligible for a Reaction, a special type of Action, spending her actions on another models turn.
+
 
 Movement actions
 ----------------
@@ -143,6 +153,7 @@ You may spend your Movement action to pick up an item.
 
 You may spend your Movement action to switch to another weapon that you have equipped.
 
+
 Standard actions
 ----------------
 
@@ -150,7 +161,7 @@ Standard actions
 
 If a model wants to sprint it must have already moved this turn, it may then move half of its movement.
 
-### <span id="obstructions-or-rough-terrain" class="anchor"><span id="melee-combat" class="anchor"></span></span>Melee
+### Melee
 
 A model may attack another model that it's in base-contact with.
 
@@ -189,11 +200,12 @@ If the caster loses he may suffer damage according to the spell failure table
 #### Spell failure
 
 | Amount By Which Casting Roll Failed | Damage Taken by Spellcaster |
-|-------------------------------------|-----------------------------|
+| ----------------------------------- | --------------------------- |
 | 1–4                                 | None                        |
 | 5–9                                 | 1 Damage                    |
 | 10–19                               | 2 Damage                    |
 | 20+                                 | 5 Damage                    |
+
 
 Range
 -----
@@ -203,6 +215,7 @@ Range
 Shooting from higher up adds to the range of Ranged weapons. Measure the height difference between the attacker and the defender and add it to the range of the attackers Ranged weapon.
 
 For example, an archer is standing 3" above her target adds 3" to her bows maximum range.
+
 
 Damage
 ------
@@ -219,6 +232,7 @@ When a model takes damage to Core Stats it's the stat that was rolled that first
 
 > A model has \[1P, 2F, 1W\], it takes 2F damage, then it takes another 1F damage but now the models Finesse is already zero, so the damage goes to the next Core Stat in line, Will, it takes 1 damage to Will. The model now has Core Stats as follows \[1P, 0F, 0W\]. If it takes any damage to either Finesse or Will it will carry over to Power, reducing it down to zero and taking the model out of game.
 
+
 Morale
 ------
 
@@ -230,15 +244,18 @@ If the roll is equal or higher than the target number she may remain in the batt
 
 If the roll is lower than the target number she will flee using both her movement and Sprint action to get to the nearest table edge. She takes the safest way away from enemies.
 
+
 Critical Hit
 ------------
 
 When a model making an attack rolls a natural twenty (20), then they have scored a critical hit. It automatically wins that combat and may deal double damage (after armour reduction).
 
+
 Critical Fumble
 ---------------
 
 When a model making an attack rolls a natural one (1), then they have scored a critical fumble. It automatically loses that combat, reduces one Core Stat by 1 and its opponent may deal damage (Effective Core Stat loss is two, one for the fumble and one for the damage). If the model was shooting into a melee combat, reroll the attack against one of the models allies in that combat.
+
 
 Advantage & Disadvantage
 ------------------------
@@ -273,12 +290,14 @@ If a model wants to shoot into a melee combat it gains disadvantage. This also a
 
 If a model shoots at an enemy that has cover it gains disadvantage.
 
+
 End of the game
 ---------------
 
 The game ends when the scenarios win or lose-condition is met.
 
 A spellcaster may choose a number of spells equal to his level.
+
 
 Spellcasting
 ------------
@@ -289,9 +308,13 @@ Spellcasting
 
 Once per battle
 
-Target: 3" radius
+Target: 3” radius
 
-Attack: Brilliance vs Finesse
+Range: 18 “
+
+Attack: Will vs Finesse
+
+Effect: Damage
 
 ### School of Frost
 
@@ -299,72 +322,110 @@ Attack: Brilliance vs Finesse
 
 Once per turn
 
-Target: 1 model
+Target: First model in a line
 
-Attack: Brilliance vs Finesse
+Range: 12”
+
+Attack: Will vs Finesse
+
+Effect: Damage
+
+
+School of Lightning
+-------------------
+
+### Lightning Fork
+
+Once per battle
+
+Target: 1 model, *Chained*
+
+Range: 12”
+
+Attack: Will vs Power
+
+Effect: Damage
+
 
 Mercenary companies
 ===================
 
+
 Heroes
 ------
 
-Each hero costs 80 gp to hire to your company.
+Each hero has a base cost of 80 gp. This is then modified by the cost of the chosen race.
 
 ### Starting heroes
 
-A newly recruited hero starts out at level 1.
+A newly recruited hero starts out at level 1. Choose a name, race and class for the newly recruited hero. The table below shows the max value of each stat for that race.
 
-Choose a name, race and class for the newly recruited hero.
+| Race     |  P   |  F   |  W   |  H   |  A   |
+| -------- | :--: | :--: | :--: | :--: | :--: |
+| Human    |  5   |  5   |  5   |  20  |  0   |
+| Elf      |  4   |  7   |  5   |  20  |  0   |
+| Dwarf    |  7   |  5   |  5   |  20  |  0   |
+| Halfling |  5   |  6   |  5   |  20  |  0   |
+| Undead   |  5   |  3   |  4   |  20  |  0   |
+| Beast    |  8   |  5   |  4   |  20  |  0   |
+| Demon    |  6   |  6   |  6   |  20  |  0   |
 
-The table shows the starting value and max value of each stat for that race.
-
-| Race     | P   | F   | W   | H     | A   |
-|----------|-----|-----|-----|-------|-----|
-| Human    | 1/5 | 1/5 | 1/5 | 10/20 | 0   |
-| Elf      | 1/4 | 1/7 | 1/5 | 10/20 | 0   |
-| Dwarf    | 1/7 | 1/5 | 1/5 | 10/20 | 0   |
-| Halfling | 1/5 | 1/6 | 1/5 | 10/20 | 0   |
-| Undead   | 1/5 | 1/3 | 1/4 | 10/20 | 0   |
-| Beast    | 1/8 | 1/5 | 1/4 | 10/20 | 0   |
-| Demon    | 1/6 | 1/6 | 1/6 | 10/20 | 0   |
 
 Races
 -----
 
+Each race has a listing of warbands from Games Workshop's Mordheim that should be the best race for that warband, a warband can be part of more than one race.
+
 ### Humans
 
-#### Pirates
+**Cost**: 20 gp
 
-#### Sisters of Sigmar
+**asd**: asd
 
-#### Witch Hunters
-
-#### Bretonnia Knights
-
-#### Amazons
-
-#### Pit Fighters
-
-#### Mercenaries
+**Mordheim warbands**: Pirates, Sisters of Sigmar, Witch Hunters, Bretonnia Knights, Amazons, Pit Fighters, Mercenaries, Norse Marauders
 
 ### Elves
 
 #### Wood elves
 
+**Cost**: 50 gp
+
+**Elven grace**: At the start of each turn roll 1D20, on a roll of 18+ you gain an extra Standard action this turn.
+
+**Mordheim warbands**: Asrai Waywatchers
+
 #### Steppe elves
+**Cost**: 10 gp
+
+**Teleport**: Once per game, as a Move action you can teleport 12" to a location you can see.
+
+**Mordheim warbands**: Shadow Warriors
 
 #### Dark elves
 
-#### Shadow Warriors
+**Cost**: 10 gp
+
+**Cruel**: Once per game, as a free action you may deal your level in ongoing damage to a target that you hit and has dealt damage to. A normal save (11+) ends the ongoing damage.
+
+**Mordheim warbands**: Dark elves, Cult of Caine
 
 ### Dwarves
 
-Dwarf Treasure Hunters
+**Cost**: 10 gp
+
+**Is that all y'all got?**: Once per game, after you have been hit you may heal equal to your level.
+
+**Mordheim warbands**: Dwarf Treasure Hunters
 
 ### Halflings
 
+**Cost**: 10 gp
+
+**Evasive**: Once per game, force an enemy that hit you to reroll the attack with a -2 penalty.
+
 ### Undead
+
+**Mordheim warbands**: Undead, Tomb Kings, Lord Von Karstein?
 
 ### Beasts
 
@@ -378,9 +439,8 @@ Dwarf Treasure Hunters
 
 ### Demons
 
-#### Carnival of Chaos
+**Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders, 
 
-#### Cult of the Possessed
 
 Classes
 -------
@@ -403,6 +463,7 @@ With cloak and poison dagger, or a well-placed arrow the expert exceeds in killi
 
 Unlocks Rogue and Ranger talents.
 
+
 Assembling your company of heroes
 ---------------------------------
 
@@ -413,6 +474,7 @@ Give the company a name and motto.
 Your heroes buy, steal or repurpose a place in the city of Istra into a base of operations. A place where your heroes live, train and drink.
 
 It's important that you name your company hall.
+
 
 Weapon descriptions
 -------------------
@@ -455,6 +517,7 @@ Crossbows takes either a Move action or a Standard action to load. Crossbows hav
 
 Black powder weapons give the defender Disadvantage to the defence roll and deal +6 damage. Black powder weapons have Disadvantage against all targets 12” or further away. Black powder weapons take 2 turns to reload.
 
+
 Armour descriptions
 -------------------
 
@@ -470,13 +533,14 @@ Heavy armour gives the model +10 Armour but -2 Movement.
 
 Shields give the model +1 to Armour, Arrow block and Shield friend.
 
+
 Equipment list
 --------------
 
 ### Weapons
 
 | Name        | Cost (gp) | Mordheim cost (gc) |
-|-------------|-----------|--------------------|
+| ----------- | --------- | ------------------ |
 | Dagger      | 2         | 1                  |
 | One-handed  | 10        | 10                 |
 | Two-handed  | 12        | 15                 |
@@ -489,12 +553,13 @@ Equipment list
 ### Armour
 
 | Name    | Cost (gp) | Mordheim cost (gc) |
-|---------|-----------|--------------------|
+| ------- | --------- | ------------------ |
 | Light   | 15        | 20                 |
 | Heavy   | 45        | 50                 |
 | Shield  | 5         | 5                  |
 | Buckler | 5         | 5                  |
 | Helmet  | -         | 5                  |
+
 
 Special rules
 -------------
@@ -517,8 +582,14 @@ Reaction: If you have not used your Standard action, you may spend your Standard
 
 If both models have First strike they cancel each other out.
 
+### Chained
+
+Each time you roll a natural even roll for this attack you can attack another target with the same attack.
+
+
 Campaigns
 =========
+
 
 Advancing your heroes
 ---------------------
@@ -528,6 +599,7 @@ After each battle your surviving heroes gains 1 XP, it takes 4 XP to reach the n
 Your heroes gain +1 to one Core Stat each time they gain a level.
 
 Your heroes gain +1 talents for each level they have.
+
 
 Advancing your company hall
 ---------------------------
@@ -541,6 +613,7 @@ Remove terrain when another mercenary company invades your base.
 ### Walls
 
 Gives you wall from where to defend your base.
+
 
 Talents
 -------
@@ -565,7 +638,7 @@ Talents
 
 #### Paladin
 
-**Smite Douchebag**: Once per battle, before you roll attack you may declare that you use Smite Douchebag. You may deal 1D3 extra damage even if you lose the combat roll. You may deal 1D6 extra damage if you win the combat.
+**Smite douchebag**: Once per battle, before you roll attack you may declare that you use Smite Douchebag. You may deal 1D3 extra damage even if you lose the combat roll. You may deal 1D6 extra damage if you win the combat.
 
 **Bastion**: You gain +1 Armour and can once per battle invoke the special rules Shield friend even if you don't have a shield.
 
@@ -575,9 +648,19 @@ Talents
 
 #### Sorcerer
 
+Gather power:
+
+Spell fist:
+
 #### Wizard
 
+**Abjuration**: +4 Armour for one turn when casting Once per battle spells.
+
 #### Priest
+
+Domain: Healing
+
+Domain: Justice or Vengeance
 
 #### Bard
 
@@ -585,4 +668,16 @@ Talents
 
 #### Rogue
 
+Sneak attack
+
+Shadow walk¨
+
+Tumble
+
 #### Ranger
+
+Double melee attack
+
+Double ranged attack
+
+Lethal hunter
