@@ -50,11 +50,9 @@ This is a human-readable summary of (and not a substitute for) the [license](ht
 Table of Contents
 =================
 
-<<<<<<< HEAD
-=======
 [TOC]
 
->>>>>>> origin/master
+
 
 Rules
 =====
@@ -366,8 +364,6 @@ Attack: Will vs Power
 
 Effect: Damage
 
-
-
 Mercenary companies
 ===================
 
@@ -390,22 +386,6 @@ A newly recruited hero starts out at level 1. Choose a name, race and class for 
 | Undead   |  5   |  3   |  4   |  20  |  0   |
 | Beast    |  8   |  5   |  4   |  20  |  0   |
 | Demon    |  6   |  6   |  6   |  20  |  0   |
-
-<<<<<<< HEAD
-=======
-The table shows the starting value and max value of each stat for that race.
-
-| Race     | P    | F    | W    | H     | A    |
-| -------- | ---- | ---- | ---- | ----- | ---- |
-| Human    | 1/5  | 1/5  | 1/5  | 10/20 | 0    |
-| Elf      | 1/4  | 1/7  | 1/5  | 10/20 | 0    |
-| Dwarf    | 1/7  | 1/5  | 1/5  | 10/20 | 0    |
-| Halfling | 1/5  | 1/6  | 1/5  | 10/20 | 0    |
-| Undead   | 1/5  | 1/3  | 1/4  | 10/20 | 0    |
-| Beast    | 1/8  | 1/5  | 1/4  | 10/20 | 0    |
-| Demon    | 1/6  | 1/6  | 1/6  | 10/20 | 0    |
-
->>>>>>> origin/master
 
 Races
 -----
@@ -461,6 +441,10 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 
 ### Undead
 
+**Cost**: 25 gp
+
+**Dead men don't flee**: Never has to roll Morale.
+
 **Mordheim warbands**: Undead, Tomb Kings, Lord Von Karstein?
 
 ### Beasts
@@ -476,8 +460,6 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 ### Demons
 
 **Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders, 
-
-
 
 Classes
 -------
@@ -619,13 +601,9 @@ Reaction: If you have not used your Standard action, you may spend your Standard
 
 If both models have First strike they cancel each other out.
 
-<<<<<<< HEAD
 ### Chained
 
 Each time you roll a natural even roll for this attack you can attack another target with the same attack.
-
-=======
->>>>>>> origin/master
 
 Campaigns
 =========
