@@ -50,11 +50,10 @@ This is a human-readable summary of (and not a substitute for) the [license](ht
 Table of Contents
 =================
 
-<<<<<<< HEAD
-=======
 [TOC]
 
->>>>>>> origin/master
+
+
 
 Rules
 =====
@@ -366,46 +365,35 @@ Attack: Will vs Power
 
 Effect: Damage
 
-
-
 Mercenary companies
 ===================
-
 
 Heroes
 ------
 
-Each hero has a base cost of 80 gp. This is then modified by the cost of the chosen race.
+Each hero has a base cost of 40 gp. This is then modified by the cost of the chosen race.
+
+### Leader
+
+You must choose one of your heroes to be your mercenary company leader. She gain the *Leader* special rule.
 
 ### Starting heroes
 
-A newly recruited hero starts out at level 1. Choose a name, race and class for the newly recruited hero. The table below shows the max value of each stat for that race.
+A newly recruited hero starts out at level 1 and have one free dagger. Choose a name, race and class for the newly recruited hero. The table below shows the max value of each stat for that race.
 
-| Race     |  P   |  F   |  W   |  H   |  A   |
-| -------- | :--: | :--: | :--: | :--: | :--: |
-| Human    |  5   |  5   |  5   |  20  |  0   |
-| Elf      |  4   |  7   |  5   |  20  |  0   |
-| Dwarf    |  7   |  5   |  5   |  20  |  0   |
-| Halfling |  5   |  6   |  5   |  20  |  0   |
-| Undead   |  5   |  3   |  4   |  20  |  0   |
-| Beast    |  8   |  5   |  4   |  20  |  0   |
-| Demon    |  6   |  6   |  6   |  20  |  0   |
+| Race     | Power | Finesse | Will | Health | Armour |
+| -------- | :---: | :-----: | :--: | :----: | :----: |
+| Human    |   5   |    5    |  5   |   20   |   0    |
+| Elves    |   4   |    7    |  5   |   20   |   0    |
+| Dwarves  |   7   |    5    |  5   |   20   |   0    |
+| Halfling |   5   |    6    |  5   |   20   |   0    |
+| Undead   |   5   |    3    |  4   |   20   |   0    |
+| Beast    |   8   |    5    |  4   |   20   |   0    |
+| Demon    |   6   |    6    |  6   |   20   |   0    |
 
-<<<<<<< HEAD
-=======
-The table shows the starting value and max value of each stat for that race.
+## Henchmen?
 
-| Race     | P    | F    | W    | H     | A    |
-| -------- | ---- | ---- | ---- | ----- | ---- |
-| Human    | 1/5  | 1/5  | 1/5  | 10/20 | 0    |
-| Elf      | 1/4  | 1/7  | 1/5  | 10/20 | 0    |
-| Dwarf    | 1/7  | 1/5  | 1/5  | 10/20 | 0    |
-| Halfling | 1/5  | 1/6  | 1/5  | 10/20 | 0    |
-| Undead   | 1/5  | 1/3  | 1/4  | 10/20 | 0    |
-| Beast    | 1/8  | 1/5  | 1/4  | 10/20 | 0    |
-| Demon    | 1/6  | 1/6  | 1/6  | 10/20 | 0    |
-
->>>>>>> origin/master
+Henchmen are different from heroes, they never gain levels or increase their skills. They still receive lasting injuries so it can be a good idea to fire the broken and unskilled, in favor of hiring more competent henchmen.
 
 Races
 -----
@@ -414,15 +402,57 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 
 ### Humans
 
+The humans were the first race to emerge on Melor, they were created by the Entities Life and Death in the first age. 
+
+**Tough**: Humans start with +2 Health.
+
+#### Itaus
+
+The men and women of Itaus come from northern part of the continent Tavros. They live in the cold parts up in the mountains and valleys where the clans have always ruled. They often sell their skills in combat to the high bidder and are sought after as bodyguards.
+
 **Cost**: 20 gp
 
-**asd**: asd
+**The cold breed 'em strong**: An Itausi gain +1 Power at start.
 
-**Mordheim warbands**: Pirates, Sisters of Sigmar, Witch Hunters, Bretonnia Knights, Amazons, Pit Fighters, Mercenaries, Norse Marauders
+**Mordheim warbands**: Pit Fighters, Norse Marauders
+
+#### Istra
+
+Istran people often believe in the power of silver and regard life as something that can be bought like any other commodity. 
+
+**Cost**: 20 gp
+
+**Wealthy**: Due to the immense riches of Istra, an Istran may start with a free weapon and one free armour.
+
+**Mordheim warbands**: Pirates, Pit Fighters, Mercenaries
+
+#### Kerajaan
+
+The spice traders from the middle part of the continent Nurakas have special relationship to gold. They believe that Jaanis the two-faced god of coin look after them, they have spread the Path of Coin to other trade empires in Melor but believe the Kerajaani to be a chosen people.
+
+**Cost**: 20 gp
+
+**Path of Coin**: A Kerajaani may start with a free spell regardless of which class she has taken.
+
+**Mordheim warbands**: Witch Hunters, Mercenaries, Norse Marauders
+
+#### Muria
+
+After the fall of the Dragon Empire the land was split into the three old Murian kingdoms. They have had a rocky ten years since the War of the Pink Crystal Shards, their empire falling, the High Priestess of Lehk being forced from her city by devils and the rise of Pirate king Castiel du Sin.
+
+**Cost**: 20 gp
+
+**Heritage of the Dragon**: A Murian may choose talents from any class.
+
+**Mordheim warbands**: Pirates, Sisters of Sigmar, Witch Hunters, Bretonnia Knights
 
 ### Elves
 
+Elves are generally  shorter than humans, having an average height of 160 cm (5 feet 3 inches) and weigh about 65 kg (143 pounds). The three elfkin are the children of faes, a powerful fae created a contract with Life, Time and Death to let the faes be immortal in exchange the elves would live and die in their place.
+
 #### Wood elves
+
+The rakasana, bark elves, have always lived in the Great forest north of Istra. They created the Orcs from humans as a weapon of war. They have enslaved the great Green Dragon, the Master of Poison.
 
 **Cost**: 50 gp
 
@@ -431,7 +461,10 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 **Mordheim warbands**: Asrai Waywatchers
 
 #### Steppe elves
-**Cost**: 10 gp
+
+The torasana, wind elves, come from the great plains and steppes in the furthest nothern parts of the continent Nurakas.
+
+**Cost**: 20 gp
 
 **Teleport**: Once per game, as a Move action you can teleport 12" to a location you can see.
 
@@ -439,13 +472,19 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 
 #### Dark elves
 
-**Cost**: 10 gp
+The posana, night elves, live underground in their great cities. In the sixth age they created the dwarves from humans as their slaves for their mines. Most dark elves live in a meritocracy, the most suitable elf for each role.
+
+**Cost**: 20 gp
 
 **Cruel**: Once per game, as a free action you may deal your level in ongoing damage to a target that you hit and has dealt damage to. A normal save (11+) ends the ongoing damage.
 
 **Mordheim warbands**: Dark elves, Cult of Caine
 
 ### Dwarves
+
+In the sixth age the dwarves were created by sinister Dark elves in an experiment to breed better slaves for their mines. When they rebelled after a few hundred years they took to the mountains in the west of the continent Tavros. There they found the Halflings.
+
+#### Stoneguard
 
 **Cost**: 10 gp
 
@@ -455,29 +494,133 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 
 ### Halflings
 
+The halflings have a dim past, they were found by the dwarves after their great exodus from the Dark elves.
+
+#### Nomads
+
+Most halflings live their lives as nomads, believing in that you can only own what you can carry with you. Therefore they often get in trouble when they justifiably steal from towns. 
+
 **Cost**: 10 gp
 
 **Evasive**: Once per game, force an enemy that hit you to reroll the attack with a -2 penalty.
 
+#### Gnomes
+
+Some halflings cling to the cities, either living with the dwarf clans that found them or moving to human cities. The nomadic spirit that run through their veins never stops though, so often they go a bit crazy, either with magic or inventions.
+
+**Cost**: 20 gp
+
+**Crazy**: Gnomes always get +2 to any Spell Casting roll but add +4 to the Spell Failure table.
+
+**Mordheim warbands**:
+
 ### Undead
 
-**Mordheim warbands**: Undead, Tomb Kings, Lord Von Karstein?
+**Dead men don't flee**: Never has to roll Morale.
+
+#### Lich
+
+**Cost**: 50 gp
+
+**Phylactery**: A lich can not be slain, if she would be killed, she reanimates after one game.
+
+**Mordheim warbands**:
+
+#### Zombie
+
+**Cost**: 0 gp
+
+**Slow but tough**: Zombies can never Sprint but gain +3 Health.
+
+**Mordheim warbands**: Undead
+
+#### Skeletons of the Black Amber Legion
+
+**Cost**: 25 gp
+
+**Mordheim warbands**: Tomb Kings
+
+#### Vampire
+
+All vampires stem from the first vampire Vorkalth.
+
+**Cost**: 25 gp
+
+**Killing a vampire**: To kill a vampire u either need to stake it through the heart, behead it, burn the body or leave it out in sunlight. Any other method is ignored by  vampires.
+
+**Fire is bad man**: A natural roll of 18+ is always a Critical Hit against a Vampire if the damage type is Fire.
+
+**Power of the Blood**: Any healing from a spell or potion heals for half the amount. Each time a Vampire deals damage it regains 1 Health.
+
+**Mordheim warbands**: Lord Von Karstein?
 
 ### Beasts
 
-#### Beastmen Raiders
+#### Minotaur
 
-### Ratfolk
+**Cost**: 60 gp
 
-### Goblins
+**Bull Rush**: Minotaurs can Sprint their full movement and gain Advantage on the attack roll if they Moved before they attack.
+
+**Large**: Minotaurs counts as Large creatures, they start with +2 Power and +4 Health.
+
+**Mordheim warbands**: Beastmen Raiders
+
+### Ratfolk & Goblins
+
+#### Ratfolk
+
+Even though ratfolk are not present in Melor, they are included here so that players with Skaven Mordheim warbands can use their models.
+
+**Cost**: 20 gp
+
+**From the Shadows we strike**: Plus på att smyga?
+
+**Mordheim warbands**: Skaven
+
+#### Goblins
+
+**Cost**: 20 gp
+
+**RACIAL**: XXX
+
+**Mordheim warbands**: Beastmen Raiders
 
 ### Orcs
 
+#### Wild
+
+**Cost**: 20 gp
+
+**Lethal**: Once per game, reroll a melee attack and use the roll you prefer as the result. If the *Lethal* attack reroll is a natural 16+ you can use *Lethal* again later this game.
+
+**Mordheim warbands**: 
+
+#### Civilised
+
+**Cost**: 20 gp
+
+**Lethal**: XXX
+
+**Mordheim warbands**: 
+
 ### Demons
 
+#### Demon touched
+
+**Cost**: 20 gp
+
+**Lethal**: XXX
+
+**Mordheim warbands**: 
+
+#### Spawns of Cala
+
+**Cost**: 20 gp
+
+**Lethal**: XXX
+
 **Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders, 
-
-
 
 Classes
 -------
@@ -601,17 +744,17 @@ Equipment list
 Special rules
 -------------
 
-### Charged shot
-
-Reaction: If you have a loaded ranged weapon and a model moves to Engage you in combat, you may as a reaction spend your Move action and Standard action to Shoot the attacker before he makes his attack. Your Shooting attack may be taken at any range you wish. If you do Shoot the attacker you cannot Switch weapon and you gain Disadvantage on your defence roll.
-
 ### Arrow block
 
 Reaction: When fired upon you may spend your action to gain advantage to defence rolls against ranged attacks.
 
-### Shield friend
+### Chained
 
-Reaction: When fired upon you may shield a friendly model within 2" rolling defence instead of it by spending your action.
+Each time you roll a natural even roll for this attack you can attack another target with the same attack.
+
+### Charged shot
+
+Reaction: If you have a loaded ranged weapon and a model moves to Engage you in combat, you may as a reaction spend your Move action and Standard action to Shoot the attacker before he makes his attack. Your Shooting attack may be taken at any range you wish. If you do Shoot the attacker you cannot Switch weapon and you gain Disadvantage on your defence roll.
 
 ### First strike
 
@@ -619,13 +762,14 @@ Reaction: If you have not used your Standard action, you may spend your Standard
 
 If both models have First strike they cancel each other out.
 
-<<<<<<< HEAD
-### Chained
+### Leader
 
-Each time you roll a natural even roll for this attack you can attack another target with the same attack.
+Any model within 6" may use her Will when rolling Morale.
 
-=======
->>>>>>> origin/master
+### Shield friend
+
+Reaction: When fired upon you may shield a friendly model within 2" rolling defence instead of it by spending your action.
+
 
 Campaigns
 =========
