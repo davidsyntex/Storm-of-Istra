@@ -516,7 +516,7 @@ Some halflings cling to the cities, either living with the dwarf clans that foun
 
 ### Undead
 
-**Dead men don't flee**: Never has to roll Morale.
+**Dead men don't flee**: Undead never have to roll Morale.
 
 #### Lich
 
