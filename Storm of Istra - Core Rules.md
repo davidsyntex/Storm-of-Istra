@@ -365,11 +365,10 @@ Attack: Will vs Power
 
 Effect: Damage
 
-Mercenary companies
-===================
 
-Heroes
-------
+# Mercenary companies
+
+## Heroes
 
 Each hero has a base cost of 40 gp. This is then modified by the cost of the chosen race.
 
@@ -379,7 +378,7 @@ You must choose one of your heroes to be your mercenary company leader. She gain
 
 ### Starting heroes
 
-A newly recruited hero starts out at level 1. Choose a name, race and class for the newly recruited hero. The table below shows the max value of each stat for that race.
+A newly recruited hero starts out at level 1 and have one free dagger. Choose a name, race and class for the newly recruited hero. The table below shows the max value of each stat for that race.
 
 | Race     | Power | Finesse | Will | Health | Armour |
 | -------- | :---: | :-----: | :--: | :----: | :----: |
@@ -395,8 +394,7 @@ A newly recruited hero starts out at level 1. Choose a name, race and class for 
 
 Henchmen are different from heroes, they never gain levels or increase their skills. They still receive lasting injuries so it can be a good idea to fire the broken and unskilled, in favor of hiring more competent henchmen.
 
-Races
------
+## Races
 
 Each race has a listing of warbands from Games Workshop's Mordheim that should be the best race for that warband, a warband can be part of more than one race.
 
@@ -404,13 +402,15 @@ Each race has a listing of warbands from Games Workshop's Mordheim that should b
 
 The humans were the first race to emerge on Melor, they were created by the Entities Life and Death in the first age. 
 
+**Tough**: Humans start with +2 Health.
+
 #### Itaus
 
 The men and women of Itaus come from northern part of the continent Tavros. They live in the cold parts up in the mountains and valleys where the clans have always ruled. They often sell their skills in combat to the high bidder and are sought after as bodyguards.
 
 **Cost**: 20 gp
 
-**Tough**: Itaus people start with +2 Health.
+**The cold breed 'em strong**: An Itausi gain +1 Power at start.
 
 **Mordheim warbands**: Pit Fighters, Norse Marauders
 
@@ -420,7 +420,7 @@ Istran people often believe in the power of silver and regard life as something 
 
 **Cost**: 20 gp
 
-**Tough**: XXX
+**Wealthy**: Due to the immense riches of Istra, an Istran may start with a free weapon and one free armour.
 
 **Mordheim warbands**: Pirates, Pit Fighters, Mercenaries
 
@@ -430,17 +430,17 @@ The spice traders from the middle part of the continent Nurakas have special rel
 
 **Cost**: 20 gp
 
-**Tough**: XXX
+**Path of Coin**: A Kerajaani may start with a free spell regardless of which class she has taken.
 
 **Mordheim warbands**: Witch Hunters, Mercenaries, Norse Marauders
 
-#### Murian
+#### Muria
 
 After the fall of the Dragon Empire the land was split into the three old Murian kingdoms. They have had a rocky ten years since the War of the Pink Crystal Shards, their empire falling, the High Priestess of Lehk being forced from her city by devils and the rise of Pirate king Castiel du Sin.
 
 **Cost**: 20 gp
 
-**Tough**: Humans start with +2 Health.
+**Heritage of the Dragon**: A Murian may choose talents from any class.
 
 **Mordheim warbands**: Pirates, Sisters of Sigmar, Witch Hunters, Bretonnia Knights
 
@@ -482,14 +482,6 @@ The posana, night elves, live underground in their great cities. In the sixth ag
 
 In the sixth age the dwarves were created by sinister Dark elves in an experiment to breed better slaves for their mines. When they rebelled after a few hundred years they took to the mountains in the west of the continent Tavros. There they found the Halflings.
 
-#### Merchants
-
-**Cost**: 10 gp
-
-**RACIAL**: XXX
-
-**Mordheim warbands**: Dwarf Treasure Hunters
-
 #### Stoneguard
 
 **Cost**: 10 gp
@@ -510,33 +502,33 @@ Most halflings live their lives as nomads, believing in that you can only own wh
 
 **Evasive**: Once per game, force an enemy that hit you to reroll the attack with a -2 penalty.
 
-#### Thralled by the city
+#### Gnomes
 
 Some halflings cling to the cities, either living with the dwarf clans that found them or moving to human cities. The nomadic spirit that run through their veins never stops though, so often they go a bit crazy, either with magic or inventions.
 
 **Cost**: 20 gp
 
-**RACIAL**: Plus i magi!
+**Crazy**: Gnomes always get +2 to any Spell Casting roll but add +4 to the Spell Failure table.
 
 **Mordheim warbands**:
 
 ### Undead
 
+**Dead men don't flee**: Undead never have to roll Morale.
+
 #### Lich
 
-**Cost**:
+**Cost**: 50 gp
 
-**RACIAL**: XXX
+**Phylactery**: A lich can not be slain, if she would be killed, she reanimates after one game.
 
 **Mordheim warbands**:
 
 #### Zombie
 
-**Cost**: 25 gp
+**Cost**: 0 gp
 
-**Dead men don't flee**: Never has to roll Morale.
-
-**Slow**: Zombies can never Sprint
+**Slow but tough**: Zombies can never Sprint but gain +3 Health.
 
 **Mordheim warbands**: Undead
 
@@ -544,15 +536,19 @@ Some halflings cling to the cities, either living with the dwarf clans that foun
 
 **Cost**: 25 gp
 
-**Dead men don't flee**: Never has to roll Morale.
-
 **Mordheim warbands**: Tomb Kings
 
 #### Vampire
 
+All vampires stem from the first vampire Vorkalth.
+
 **Cost**: 25 gp
 
-**Dead men don't flee**: Never has to roll Morale.
+**Killing a vampire**: To kill a vampire u either need to stake it through the heart, behead it, burn the body or leave it out in sunlight. Any other method is ignored by  vampires.
+
+**Fire is bad man**: A natural roll of 18+ is always a Critical Hit against a Vampire if the damage type is Fire.
+
+**Power of the Blood**: Any healing from a spell or potion heals for half the amount. Each time a Vampire deals damage it regains 1 Health.
 
 **Mordheim warbands**: Lord Von Karstein?
 
@@ -560,9 +556,11 @@ Some halflings cling to the cities, either living with the dwarf clans that foun
 
 #### Minotaur
 
-**Cost**: 20 gp
+**Cost**: 60 gp
 
-**RACIAL**: XXX
+**Bull Rush**: Minotaurs can Sprint their full movement and gain Advantage on the attack roll if they Moved before they attack.
+
+**Large**: Minotaurs counts as Large creatures, they start with +2 Power and +4 Health.
 
 **Mordheim warbands**: Beastmen Raiders
 
@@ -574,7 +572,7 @@ Even though ratfolk are not present in Melor, they are included here so that pla
 
 **Cost**: 20 gp
 
-**RACIAL**: XXX
+**From the Shadows we strike**: Plus på att smyga?
 
 **Mordheim warbands**: Skaven
 
