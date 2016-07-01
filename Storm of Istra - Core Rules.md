@@ -257,11 +257,9 @@ Morale
 
 If a model has 4 Health left she must start making Morale checks at the start of its activation. She rolls 1D20 and adds her Will stat plus any other relevant modifiers, against the target number 10 plus 1 for each Health lost.
 
-If the company leader is within 6" of her she may use the leaders Will stat in place of her own.
-
 If the roll is equal or higher than the target number she may remain in the battle as normal.
 
-If the roll is lower than the target number she will flee using both her movement and Sprint action to get to the nearest table edge. She takes the safest way away from enemies.
+If the roll is lower than the target number she will flee using both her Move and Sprint action to get to the nearest table edge. She takes the safest way away from enemies.
 
 
 Critical Hit
@@ -514,7 +512,7 @@ Some halflings cling to the cities, either living with the dwarf clans that foun
 
 ### Undead
 
-**Dead men don't flee**: Undead never have to roll Morale.
+**Dead men don't flee**: Undead have the *Fearless* special rules.
 
 #### Lich
 
@@ -534,13 +532,17 @@ Some halflings cling to the cities, either living with the dwarf clans that foun
 
 #### Skeletons of the Black Amber Legion
 
+The Black Amber Legion is an elite legion in loyal service to the Lich King of Inmahr. The often wear a black cloak with an amber clasp.
+
 **Cost**: 25 gp
+
+**Sticks and stones**: Skeletons have Resist weapons 16+, the attacker must roll a natural 16+ on his attack roll or the damage is halved.
 
 **Mordheim warbands**: Tomb Kings
 
-#### Vampire
+#### Vampires of Vorkalth
 
-All vampires stem from the first vampire Vorkalth.
+All vampires stem from the first vampire Lord Vorkalth. Some are in service of the Lich King of Inmahr but others are part of the Dimir bloodline and live in the kingdom Terendimu (Land of Dimir). And some are unaligned and roam the world freely.
 
 **Cost**: 25 gp
 
@@ -564,7 +566,7 @@ All vampires stem from the first vampire Vorkalth.
 
 **Mordheim warbands**: Beastmen Raiders
 
-### Ratfolk & Goblins
+### Ratfolk
 
 #### Ratfolk
 
@@ -572,21 +574,29 @@ Even though ratfolk are not present in Melor, they are included here so that pla
 
 **Cost**: 20 gp
 
-**From the Shadows we strike**: Plus på att smyga?
+**Fear tactics**: A ratfolk may kill one of his own allies within 6" instead of rolling Morale, this gives enemies within 12" disadvantage on their Morale checks.
 
 **Mordheim warbands**: Skaven
+
+### Goblins
+
+Goblins are small, vermin-like creatures of green to grey skin. They are often stupidly brave, naïve and ruthless. Some have managed to cultivate a sense of intelligence.
 
 #### Goblins
 
 **Cost**: 20 gp
 
-**RACIAL**: XXX
+**We be more than 'em**: Gains the *Fearless* special rule if there are more allies on the board than enemies.
 
-**Mordheim warbands**: Beastmen Raiders
+**Mordheim warbands**: 
 
 ### Orcs
 
-#### Wild
+The orcs were created by the Wood elves for one purpose, WAR! The once humans were mutilated until they became great killing machines. To limit their spread and train warriors faster the elves gave them short lifespans, a fully grown orc is a mere six years old, and will die at the age of 30.
+
+#### Wild Orcs
+
+Some orcs try to live a civilised life in the cities alongside humans, elves and dwarves. But not the Wild Orcs, under the banner of the Orc Lord and then later under the command of  the Pirate King Castiel du Sin, the Wild Orcs remain pure killing machines.
 
 **Cost**: 20 gp
 
@@ -594,31 +604,29 @@ Even though ratfolk are not present in Melor, they are included here so that pla
 
 **Mordheim warbands**: 
 
-#### Civilised
-
-**Cost**: 20 gp
-
-**Lethal**: XXX
-
-**Mordheim warbands**: 
-
 ### Demons
+
+The demons come from another world, Cala. A place not fueled by food and drink, but of emotions. The demons feed on emotions and they often try to enter into Melor to devour the feelings of its inhabitants.
 
 #### Demon touched
 
+The Demon touched are mere mortal men that have some Cala blood in them.
+
 **Cost**: 20 gp
 
-**Lethal**: XXX
+**Curse of Chaos**: Once per battle when an enemy within 6" rolls a natural 1-5 on an attack, turn that into a 1.
 
-**Mordheim warbands**: 
+**Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders
 
 #### Spawns of Cala
 
+Spawns are the real demons that comes from Cala, they are twisted in the anatomy, or made of non-physical materials.
+
 **Cost**: 20 gp
 
-**Lethal**: XXX
+**Fear is my food**: Spawns of Cala may gain +1 to a Core Stat every time an enemy flees, this gain is temporary and is lost at the end of the game.
 
-**Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders, 
+**Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders
 
 Classes
 -------
@@ -754,6 +762,10 @@ Each time you roll a natural even roll for this attack you can attack another ta
 
 Reaction: If you have a loaded ranged weapon and a model moves to Engage you in combat, you may as a reaction spend your Move action and Standard action to Shoot the attacker before he makes his attack. Your Shooting attack may be taken at any range you wish. If you do Shoot the attacker you cannot Switch weapon and you gain Disadvantage on your defence roll.
 
+### Fearless
+
+Fearless models never have to roll morale.
+
 ### First strike
 
 Reaction: If you have not used your Standard action, you may spend your Standard action to make a Melee attack against your attacker before she attacks you.
@@ -830,9 +842,9 @@ Talents
 
 #### Sorcerer
 
-Gather power:
+**Gather power**: Spend your Standard action this turn, the next spell that you cast deals double damage.
 
-Spell fist:
+**Spell fist**: If you roll a natural 18+ with a melee attack you may cast a spell as an free action.
 
 #### Wizard
 
@@ -840,9 +852,9 @@ Spell fist:
 
 #### Priest
 
-Domain: Healing
+**Domain of Healing**: When you cast a spell that heals you or an ally you may add your level to the amount healed
 
-Domain: Justice or Vengeance
+**Domain of Justice or Vengeance**: Once per turn, when an enemy rolls a Critical hit against you or an ally within 6", you gain a Blessing of Reroll, immediately give it to an ally within 12". That ally may reroll an attack this turn.
 
 #### Bard
 
@@ -850,9 +862,9 @@ Domain: Justice or Vengeance
 
 #### Rogue
 
-Sneak attack
+**Sneak attack**: Once per turn, when you hit with an melee attack against a Flanked enemy add your level to the damage.
 
-Shadow walk¨
+Shadow walk: As a Move action before you have used your Standard action this turn, if your are not engaged make an opposed Will roll against the enemy with the highest Will within 6". If you win the roll remove yourself from play. At the start of your next turn, return at a position that you could have moved to normally during your turn. You deal double damage
 
 Tumble
 
