@@ -98,11 +98,11 @@ To setup a game of Storm of Istra, you need at least two players for Player vers
 
 Each participant rolls initiative to see who goes first. A simple opposed roll using 1D20 is used, the high roller begins, ties are rerolled. If there are more than two players they can in roll off to see who goes next or just use the standard board game rule, the next player to the left goes after the winner in a circle.
 
-### Building the battlefield
-
-TODO
-
 ### Deploying your mercenary company
+
+There is a standard way to deploy your models, but some scenarios may change those.
+
+#### Standard Deployment
 
 The player that won the Initiative gets to deploy one of his models, then the next player deploys one model, and so on until all models have been placed on the board.
 
@@ -397,6 +397,8 @@ A newly recruited hero starts out at level 1 and have one free dagger. Choose a 
 ## Henchmen?
 
 Henchmen are different from heroes, they never gain levels or increase their skills. They still receive lasting injuries so it can be a good idea to fire the broken and unskilled, in favor of hiring more competent henchmen.
+
+*Insert Table of Henchmen for hire here!*
 
 ## Races
 
@@ -787,10 +789,10 @@ Any model within 6" may use her Will when rolling Morale.
 
 Reaction: When fired upon you may shield a friendly model within 2" rolling defence instead of it by spending your action.
 
-
 Campaigns
 =========
 
+Most of the features here will be included in Version 3 of SoI.
 
 Advancing your heroes
 ---------------------
@@ -882,3 +884,10 @@ Talents
 **Double ranged attack**: If your are fighting with a ranged weapon that doesn't need to be reloaded or that you have actions enough to reload, you can make a double ranged attack. If your first attack is a natural even roll (hit or miss), you can make a second attack as a free action. You gain a -2 damage penalty to both attacks.
 
 **Lethal hunter**: Once per game, choose an enemy, the Critical Hit range of your attacks against that enemy expands by 2 (usually from 20 to 18+) for the rest of the game.
+
+# Scenarios
+
+Will be added in Version 3.
+
+
+
