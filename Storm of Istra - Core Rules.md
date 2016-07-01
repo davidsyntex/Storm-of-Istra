@@ -75,7 +75,7 @@ Power, Finesse and Will are Core Stats.
 **Armour**: Armour indicates how much damage the model reduces incoming damage with.
 
 
-Skills
+Skills (Not used in Version 2)
 ------
 
 Difficulties when performing a skill check are easy 6+, normal 11+, hard 16+. To roll a skill check simply roll 1D20 and get equal or higher than the difficulty. If no difficulty is written use the normal difficulty of 11+.
@@ -96,7 +96,7 @@ Setup the battle
 
 To setup a game of Storm of Istra, you need at least two players for Player versus Player (PVP) and at least one player and one Game Master for Player versus Environment (PVE).
 
-Each participant rolls initiative to see who goes first. A simple opposed roll using 1D20 is used, the high roller begins, ties are rerolled. If there are more than two players they can in roll off to see who goes next or just use the standard board game rule, the next player to the left.
+Each participant rolls initiative to see who goes first. A simple opposed roll using 1D20 is used, the high roller begins, ties are rerolled. If there are more than two players they can in roll off to see who goes next or just use the standard board game rule, the next player to the left goes after the winner in a circle.
 
 ### Building the battlefield
 
@@ -114,7 +114,13 @@ Games are divided into turns, each player will have a chance to move all of thei
 
 ### Initiative
 
-The player that won the roll get to activate one of his models and then nominate the next model to be activated. They can choose to nominate their own, another players or a neutral monsters model. The owner of the nominated model takes that models turn and then nominates the next model, and so forth until all models have been nominated once. The last nominated model’s owner gets to nominate the first model for the next turn.
+The player that won the roll get to activate one of his models and then nominate the next model to be activated.
+
+The player can choose to nominate their own, another player's models or a neutral monster's model.
+
+The owner of the nominated model takes that model's turn and then nominates the next model, and so forth until all models have been nominated once.
+
+The last nominated model’s player nominates the first model for the next turn.
 
 ### Activation
 
