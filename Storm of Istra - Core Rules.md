@@ -322,7 +322,7 @@ The game ends when the scenarios win or lose-condition is met.
 A spellcaster may choose a number of spells equal to his level.
 
 
-Spellcasting
+List of Spells
 ------------
 
 ### School of Fire
@@ -354,10 +354,9 @@ Attack: Will vs Finesse
 Effect: Damage
 
 
-School of Lightning
--------------------
+### School of Lightning
 
-### Lightning Fork
+#### Lightning Fork
 
 Once per game
 
@@ -652,6 +651,10 @@ Either empowering their magic spells and breath weapons, using calculated and ve
 
 Unlocks Sorcerer, Wizard, Priest and Bard talents.
 
+Unlocks Spellcasting.
+
+Before each game you may select a number of spells equal to your level.
+
 ### Expert
 
 With cloak and poison dagger, or a well-placed arrow the expert exceeds in killing targets fast and mercilessly.
@@ -817,9 +820,10 @@ Remove terrain when another mercenary company invades your base.
 
 Gives you wall from where to defend your base.
 
-
 Talents
 -------
+
+Talents are things that improve your Hero, giving him more of an edge against her opponents.
 
 ### Fighter talents
 
@@ -866,6 +870,8 @@ Talents
 **Domain of Justice or Vengeance**: Once per turn, when an enemy rolls a Critical hit against you or an ally within 6", you gain a Blessing of Reroll, immediately give it to an ally within 12". That ally may reroll an attack this turn.
 
 #### Bard
+
+**Spellsinger**: You gain +1 on all spells that targets your allies.
 
 ### Expert talents
 
