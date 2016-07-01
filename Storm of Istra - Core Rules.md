@@ -323,7 +323,7 @@ Spellcasting
 
 #### Fireball
 
-Once per battle
+Once per game
 
 Target: 3” radius
 
@@ -353,7 +353,7 @@ School of Lightning
 
 ### Lightning Fork
 
-Once per battle
+Once per game
 
 Target: 1 model, *Chained*
 
@@ -614,7 +614,7 @@ The Demon touched are mere mortal men that have some Cala blood in them.
 
 **Cost**: 20 gp
 
-**Curse of Chaos**: Once per battle when an enemy within 6" rolls a natural 1-5 on an attack, turn that into a 1.
+**Curse of Chaos**: Once per game when an enemy within 6" rolls a natural 1-5 on an attack, turn that into a 1.
 
 **Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders
 
@@ -627,6 +627,7 @@ Spawns are the real demons that comes from Cala, they are twisted in the anatomy
 **Fear is my food**: Spawns of Cala may gain +1 to a Core Stat every time an enemy flees, this gain is temporary and is lost at the end of the game.
 
 **Mordheim warbands**: Carnival of Chaos, Cult of the Possessed, Norse Marauders
+
 
 Classes
 -------
@@ -693,7 +694,7 @@ All ranged weapons have Advantage against targets within 6” and the *Charged s
 
 #### Bow
 
-Bows may be loaded and fired as a single action.
+Bows may be loaded and fired as a Standard action.
 
 #### Crossbow
 
@@ -730,7 +731,7 @@ Equipment list
 | Dagger      | 2         | 1                  |
 | One-handed  | 10        | 10                 |
 | Two-handed  | 12        | 15                 |
-| Spear       | 5         | ?                  |
+| Spear       | 5         | 5                  |
 | Bow/Longbow | 10        | 10                 |
 | Crossbow    | 10        | 25                 |
 | Rifle       | 50        | 30                 |
@@ -832,9 +833,9 @@ Talents
 
 #### Paladin
 
-**Smite douchebag**: Once per battle, before you roll attack you may declare that you use Smite Douchebag. You may deal 1D3 extra damage even if you lose the combat roll. You may deal 1D6 extra damage if you win the combat.
+**Smite douchebag**: Once per game, before you roll attack you may declare that you use Smite Douchebag. You may deal 1D3 extra damage even if you lose the combat roll. You may deal 1D6 extra damage if you win the combat.
 
-**Bastion**: You gain +1 Armour and can once per battle invoke the special rules Shield friend even if you don't have a shield.
+**Bastion**: You gain +1 Armour and can Once per game invoke the special rules Shield friend even if you don't have a shield.
 
 **Paladin's challenge**: If you damage a model you may choose to challenge that model. You both take a -4 attack penalty to all other models.
 
@@ -848,7 +849,7 @@ Talents
 
 #### Wizard
 
-**Abjuration**: +4 Armour for one turn when casting Once per battle spells.
+**Abjuration**: +4 Armour for one turn when casting Once per game spells.
 
 #### Priest
 
@@ -864,14 +865,14 @@ Talents
 
 **Sneak attack**: Once per turn, when you hit with an melee attack against a Flanked enemy add your level to the damage.
 
-Shadow walk: As a Move action before you have used your Standard action this turn, if your are not engaged make an opposed Will roll against the enemy with the highest Will within 6". If you win the roll remove yourself from play. At the start of your next turn, return at a position that you could have moved to normally during your turn. You deal double damage
+**Shadow walk**: As a Move action before you have used your Standard action this turn, if your are not engaged make an opposed Will roll against the enemy with the highest Will within 6". If you win the roll remove yourself from play. At the start of your next turn, return at a position that you could have moved to normally during your turn. You deal double damage with your first attack that turn. If you lose the roll, take your Standard action as normal.
 
-Tumble
+**Tumble**: You gain +5 to Disengage checks.
 
 #### Ranger
 
-Double melee attack
+**Double melee attack**: If you are fighting with two one-handed weapons or daggers you can make a double melee attack. If your first attack is a natural even roll (hit or miss), you can make a second attack as a free action. You gain a -2 damage penalty to both attacks.
 
-Double ranged attack
+**Double ranged attack**: If your are fighting with a ranged weapon that doesn't need to be reloaded or that you have actions enough to reload, you can make a double ranged attack. If your first attack is a natural even roll (hit or miss), you can make a second attack as a free action. You gain a -2 damage penalty to both attacks.
 
-Lethal hunter
+**Lethal hunter**: Once per game, choose an enemy, the Critical Hit range of your attacks against that enemy expands by 2 (usually from 20 to 18+) for the rest of the game.
